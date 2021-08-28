@@ -3,6 +3,8 @@
 ![Soy desarrollador Full-Stack trainee. ](https://lh3.googleusercontent.com/582-Hy2aVlXnVEKj6ASPBztc3LJEU77sMrQ7DAtrrgUIaTfXQNOF2HF4U_nP6jSBoznCaYdA3HJRQz7cO3JgnkjN3vUspxbc3FzrYb-wOHDgtj5Joz_GSD6NAB4J4sJHuqVM4y-0PjRg0x0yQP3UY6TrA5ZdPGwIA-afnG8-ujIjA1XQKilngvfCyP7tpNPCsPbtYEHgSblxEEqqe5Q87GRVbLNgP7bObWxKHTUhzBxLhC-jVQ5ldUUtCxvYN9n-lWcd_hP3DnmATJbOhhUdGpXFMIYZCM1w2eYAujiO6Y60lTdBDEWhhnIduEfHfIOvt_p-rrHrLydSOQSStH8EtwB8z4fGgkbOeXkMF5vZPc1WNZoTb5HgyAwcDldl8LCWFF-jxkBxQJh5ir7f5ePb8VMbAIoXb-nbLH_-UHjgyQ0Q6oc4PK6PxUeI-w9Ge58G8wqg9xDi9Y-PgFtJfhkCkfRahewwnKDy4SUgo2iVrH4sH7TkOnqGklSxoOmBN9slJcYN4HMbX9RlCAki7ugAvxFfPQz5hem5raLjAr8PO_mg9G9mi97wrXXJ7yKbCKOhR9xQCXh2_rPVuKwH6ra6eGRwEhKtX4j-gSp1Tbt6G8zKYMBZLIHzIeT3DtwpgNfp-aGDYbXj_BgyOgRYu-h22dygUIc70Z-mtYOuGNmMqXfhvyQH5WYLyFCqfhzQFGcB8ukHiVw9SONiY6zpcaouYf3R9A=w653-h196-no?authuser=0)
 
 Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Desde hace un tiempo dedicado al desarrollo web.
+
+
 **HABILIDADES**
 - 💻 HTML 
 - 💻 JAVA
@@ -10,6 +12,8 @@ Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Des
 - 🎨 CSS /SASS / BOOTSTRAP
 - ⚛️ REACT
 - 📅 MySQL
+
+
 **ESTUDIOS**
 - 📖 Coder House
 - 🌱 Estoy aprendiendo en EGGS
