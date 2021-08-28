@@ -5,8 +5,12 @@
 Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Desde hace un tiempo dedicado al desarrollo web.
 
 ## Habilidades: 
-*![image](https://user-images.githubusercontent.com/68878959/131227041-04328148-efc8-4a5d-960f-aaef11ec971c.png)
-  REACT JS / REACT / JS / HTML / CSS / SASS /BOOTSTRAP/ JAVA / MySQL
+💻 HTML 
+💻 JAVA
+💻 JAVASCRIPT
+🎨 CSS /SASS / BOOTSTRAP
+🫀 REACT
+📅 MySQL
 
 - 🌱 Estoy aprendiendo en EGGS 
 
