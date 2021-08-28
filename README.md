@@ -4,9 +4,11 @@
 
 Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Desde hace un tiempo dedicado al desarrollo web.
 
-Habilidades: REACT JS / REACT / JS / HTML / CSS / SASS /BOOTSTRAP/ JAVA / MySQL
+## Habilidades: 
+*![image](https://user-images.githubusercontent.com/68878959/131227041-04328148-efc8-4a5d-960f-aaef11ec971c.png)
+  REACT JS / REACT / JS / HTML / CSS / SASS /BOOTSTRAP/ JAVA / MySQL
 
-- 🌱 Estoy aprendiendo EGGS 
+- 🌱 Estoy aprendiendo en EGGS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/cesargomez06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cesargomez06//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/cesarytachi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/cesargomez06//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/cesargomezrc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cesargomez.netlify.app/)  
