@@ -16,7 +16,7 @@ Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Des
 
 **ESTUDIOS**
 - 📖 Coder House
-- 🌱 Estoy aprendiendo en EGGS
+- 🌱 EGGS
 - 📚 Autodidacta
 
 
