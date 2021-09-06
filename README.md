@@ -1,6 +1,6 @@
 ### Hola 👋, **Hola mi nombre es César soy de la ciudad de Rosario en Argentina.** 
 #### Soy desarrollador Full-Stack trainee. 
-![Soy desarrollador Full-Stack trainee. ](https://lh3.googleusercontent.com/rKBbAYiTKW3RY20xD3f_AUMD7C38oTwgzTk5wKwkf9XbSIrLBBRJzKXYL66gJgwMEztlN8J3-T4dkJhOGvm3_7Ng2xzwFAGHKOrY4BefkY_fylo6EgPvQWqza1CjS9Yg7RrXgKj2lR2PHsMvLJ2xZqMMtSysCX4KvuIcYpK5Tx_WXNgS3ddoOA_tyB3UBqo24ZT7BEuiz1lUIHLAGnSsb0to1JUr0WZLJVjWTuTUfUeAu2IR4oFUcJeTr-nm4T2QwGlrBbm0OJCYQZ9548l6Q_0xQnqDemtcXrWUY09AL7QG10k9x3Xrdtpk2fSEz-QVDClKJ-P14XPeq-ZeV7SyS8bE_eM5zLV8DwT6-S4Q0WOojqtjIJuPBp_Noasej0GhmjdddqKDem2XZo0jxIOkvU2oxRSQY0Thw-4hTP5mSfxvrGsc943uc38WCUIceHofuhQDGUmg1rRZf1W6ZlPT3da_4v9LxGLgSpGt0lPLL60o_LcY6mXBjJLBVQmwEpqgpIPGCIDyfwbTGtfnTw0ysAzZEMXUL0IffOew9TkKJHjfRys-F04-J66_uED4BcFVvWdx2kAoGPaEpf96B9yzvoaeKePosj7okR6WqYu6q74y6nmi6MJBpPb7tl1kw00njjVLoTMThlBeC3FCcDnbaarteqjbOh6ZSbDMuk05Y4MRvJs3fSLD2Sh5HJLafEtL9pNGfKYsJtOIIs3JCr_vEPyKHA=w1000-h300-no?authuser=0)
+![Soy desarrollador Full-Stack trainee. ](https://ibb.co/qBXfSVf)
 
 Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Desde hace un tiempo dedicado al desarrollo web.
 
