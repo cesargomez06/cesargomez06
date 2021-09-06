@@ -1,6 +1,6 @@
 ### Hola 👋, **Hola mi nombre es César soy de la ciudad de Rosario en Argentina.** 
 #### Soy desarrollador Full-Stack trainee. 
-![Soy desarrollador Full-Stack trainee. ]([url=https://ibb.co/qBXfSVf][img]https://i.ibb.co/6YVxMLx/banner.jpg[/img][/url])
+![Soy desarrollador Full-Stack trainee. ](<a href="https://ibb.co/qBXfSVf"><img src="https://i.ibb.co/6YVxMLx/banner.jpg" alt="banner" border="0" /></a>)
 
 Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Desde hace un tiempo dedicado al desarrollo web.
 
