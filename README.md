@@ -10,6 +10,7 @@ Amigo de la tecnología desde muy chico, emprendedor, entusiasta y positivo. Des
 - 💻 JAVA
 - 💻 JAVASCRIPT
 - 🎨 CSS /SASS / BOOTSTRAP
+- 💻 SPRING BOOT
 - ⚛️ REACT
 - 📅 MySQL
 
